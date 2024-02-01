@@ -1,0 +1,2 @@
+# Immunotherapy-Project-by-using-machine-learning-evaluation-models
+Here you find all the project folder that contains PDF Rapport, Scripts (set of python codes), JPG files which are pictures of schemas that i've used during the implementation of the project, an MP4 file represents a video presentation, then finally an XSLX file represents the full dataset of my project subject which i've made it by Excel
